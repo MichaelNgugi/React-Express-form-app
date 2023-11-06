@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Michael ngugi",
+    "IDno": "12345",
+    "courses": [
+      "APT",
+      "IST"
+    ]
+  },
+  {
+    "name": "Denise Bates",
+    "IDno": "52364",
+    "courses": [
+      "IST",
+      "IR"
+    ]
+  },
+  {
+    "name": "Kevin Gates",
+    "IDno": "78956",
+    "courses": [
+      "APT",
+      "IR"
+    ]
+  }
+]
